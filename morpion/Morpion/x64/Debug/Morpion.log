@@ -1,0 +1,4 @@
+﻿  Morpion.cpp
+C:\Users\skyer\Documents\GitHub\Morpion\morpion\Morpion\Morpion.cpp(245,27): warning C4244: 'initialisation' : conversion de 'unsigned short' en 'uint8_t', perte possible de données
+C:\Users\skyer\Documents\GitHub\Morpion\morpion\Morpion\Morpion.cpp(273,44): warning C4244: 'argument' : conversion de 'unsigned short' en 'uint8_t', perte possible de données
+  Morpion.vcxproj -> C:\Users\skyer\Documents\GitHub\Morpion\morpion\x64\Debug\Morpion.exe
